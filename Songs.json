@@ -1,0 +1,158 @@
+{
+    "Songs":[{
+        "title": "Dhurandhar The Revenge<br>AARI AARI",
+        "img": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844fdde797da6bdcc9722f9691",
+        "artists": "• Shashwat Sachdev, Bombay Rockerz, Irshad Kamil, Khan Saab"
+    },
+    {
+        "title": "Jaiye Sajna",
+        "img": "https://lh3.googleusercontent.com/0pkwx8J4M_khsEmw8i-TJ4NvEmi-OD5pjbdIvAmFroWRPgBp5_P4tDCAcThJ4XnGh3k2DaKp_jeIGjx7=w544-h544-l90-rj",
+        "artists": "• Shashwat Sachdev, Jasmine Sandlas and Satinder Sartaaj"
+    },
+    {
+        "title": "Jaan Se Guzarte Hain",
+        "img": "https://lh3.googleusercontent.com/0pkwx8J4M_khsEmw8i-TJ4NvEmi-OD5pjbdIvAmFroWRPgBp5_P4tDCAcThJ4XnGh3k2DaKp_jeIGjx7=w544-h544-l90-rj",
+        "artists": "• Shashwat Sachdev, Khan Saab, Irshad Kamil and Nusrat Fateh Ali Khan"
+    },
+    {
+        "title":"Bollywood Hitlist",
+        "img": "https://lh3.googleusercontent.com/tm93gMCetTfeU6P8PYouCyfZK7lVGSPe-KTY3MHw_t4qE_zNkvX1tkbqEOhUY-H9exU1rYMUrfHC6o0=w544-h544-l90-rj",
+        "artists": "• Various Artists"
+    },
+    {
+        "title": "Main Aur Tu",
+        "img": "https://lh3.googleusercontent.com/0pkwx8J4M_khsEmw8i-TJ4NvEmi-OD5pjbdIvAmFroWRPgBp5_P4tDCAcThJ4XnGh3k2DaKp_jeIGjx7=w544-h544-l90-rj",
+        "artists": "• Shashwat Sachdev and Jasmine Sandlas"
+    },
+    {
+        "title":"Destiny - Mann Atkeya",
+        "img":"https://lh3.googleusercontent.com/0pkwx8J4M_khsEmw8i-TJ4NvEmi-OD5pjbdIvAmFroWRPgBp5_P4tDCAcThJ4XnGh3k2DaKp_jeIGjx7=w544-h544-l90-rj",
+        "artists":"• Shashwat Sachdev, Token, Vaibhav Gupta and Shahzad Ali"
+    },
+    {
+        "title": "Bollywood Party",
+        "img":"https://lh3.googleusercontent.com/cg1cE94kcm7d7tqdmViTIDciskRlCTjHOqrkJngJFyFW9apXcThtqJzeGG_Y9PsGvWcs782TZxwXtts=w544-h544-l90-rj",
+        "artists":"• Various Artists"
+    },
+    {
+        "title": "Dhurandhar - Title Track",
+        "img": "https://lh3.googleusercontent.com/H6lZYHIsFNq4pSYN4_4ZSW5ZcFjjm2G_CfhLyWnZJhVj1QXJ4hY5R2Lf1k3w7zQ1n3CGZ_UKKcZrf08=w544-h544-l90-rj",
+        "artists": "• Shashwat Sachdev, Hanumankind and Jasmine Sandlas"
+    },
+    {
+        "title": "Gehra Hua",
+        "img": "https://lh3.googleusercontent.com/H6lZYHIsFNq4pSYN4_4ZSW5ZcFjjm2G_CfhLyWnZJhVj1QXJ4hY5R2Lf1k3w7zQ1n3CGZ_UKKcZrf08=w544-h544-l90-rj",
+        "artists":"• Shashwat Sachdev, Arijit Singh, Irshad Kamil and Armaan Khan"
+    }
+
+    ],
+   "Shelf2": [{
+    "title": "Winning Speech",
+    "img": "https://i.pinimg.com/736x/12/36/4c/12364c9bb3e19f93ddea5554b8ed8f1a.jpg",
+    "artists": "• Karan Aujla, Seshnolan"
+   },
+   {
+    "title": "52 Bars",
+    "img":"https://i.scdn.co/image/ab67616d0000b273d036158f4b83af10de8d2443",
+    "artists": "• Karan Aujla and Ikky"
+   },
+    {
+        "title": "Admirin' You",
+        "img": "https://c.saavncdn.com/740/Admirin-You-feat-Preston-Pablo-Punjabi-2023-20230730053753-500x500.jpg",
+        "artists": "• Karan Aujla, Ikky, <br>Preston Pablo"
+    },
+    {
+        "title": "Softly",
+        "img": "https://c.saavncdn.com/740/Admirin-You-feat-Preston-Pablo-Punjabi-2023-20230730053753-500x500.jpg",
+        "artists": "• Karan Aujla and Ikky"
+    },
+    {
+        "title": "7.7 Magnitude",
+        "img": "https://i.scdn.co/image/ab67616d0000b27389e8f71cb6f3b6cc60944858",
+        "artists": "• Karan Aujla and Ikky"
+    },
+    {
+        "title": "5-7",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242070afa09e06a2f9bb2483d",
+        "artists": "• Karan Aujla and MXRCI"
+    },
+    {
+        "title": "Antidote",
+        "img": "https://i.scdn.co/image/ab67616d0000b273f9d66911f25fcb4b3b7d5cd3",
+        "artists": "• Karan Aujla"
+    },
+    {
+        "title": "On Top",
+        "img": "https://i.scdn.co/image/ab67616d0000b273865c8db3cbe7293861942aa2",
+        "artists": "• Karan Aujla"
+    },
+    {
+        "title": "Goin' Off",
+        "img": "https://i.scdn.co/image/ab67616d0000b273c9f8b21d174ffd1c29ed7661",
+        "artists": "• Karan Aujla"
+    },
+    {
+        "title": "Wavy",
+        "img": "https://i.scdn.co/image/ab67616d0000b273dc2c3fc94a7a62af2eb91f83",
+        "artists": "• Karan Aujla"
+    },
+    {
+        "title": "Sifar Safar",
+        "img": "https://i.scdn.co/image/ab67616d0000b273c692476863223d525354014e",
+        "artists": "• Karan Aujla"
+    }
+
+
+    ],
+    "albums":[{
+        "title": "Making Memories",
+        "img":"https://c.saavncdn.com/740/Admirin-You-feat-Preston-Pablo-Punjabi-2023-20230730053753-500x500.jpg",
+        "artists": "• Karan Aujla and Ikky"
+    },
+    {
+        "title": "Glory",
+        "img": "https://i.scdn.co/image/ab67616d0000b273aad3f4b601ae8763b3fc4e88",
+        "artists": "• Yo Yo Honey Singh"
+    },
+    {
+        "title": "Moosetape",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Moosetape.jpg/250px-Moosetape.jpg",
+        "artists": "• Sidhu Moosewala"
+    },
+    {
+        "title": "P-Pop Culture",
+        "img":"https://i.scdn.co/image/ab67616d0000b27389e8f71cb6f3b6cc60944858",
+        "artists": "• Karan Aujla and Ikky"
+    },
+    {
+        "title": "Dhurandhar The Revenge",
+        "img": "https://lh3.googleusercontent.com/0pkwx8J4M_khsEmw8i-TJ4NvEmi-OD5pjbdIvAmFroWRPgBp5_P4tDCAcThJ4XnGh3k2DaKp_jeIGjx7=w544-h544-l90-rj",
+        "artists": "• Various Artists"
+    },
+    {
+        "title": "Bacthafu*up",
+        "img": "https://i1.sndcdn.com/artworks-001118296756-dte4r4-t500x500.jpg",
+        "artists": "• Karan Aujla"
+    },
+    {
+        "title": "International Villager",
+        "img": "https://i.scdn.co/image/ab67616d0000b2736119682d5b9f8b1ba6919ed9",
+        "artists": "• Yo Yo Honey Singh"
+    },
+    {
+        "title": "Moose Print",
+        "img": "https://i.scdn.co/image/ab67616d0000b273975c6d9eb949f93ac25370dd",
+        "artists": "• Sidhu Moosewala"
+    },
+    {
+        "title": "Four You",
+        "img": "https://i.scdn.co/image/ab67616d0000b273d036158f4b83af10de8d2443",
+        "artists": "• Karan Aujla and Ikky"
+    },
+    {
+        "title":"Four Me",
+        "img":"https://i.scdn.co/image/ab67616d0000b273f9d66911f25fcb4b3b7d5cd3",
+        "artists": "• Karan Aujla"
+    }
+    ]
+}
